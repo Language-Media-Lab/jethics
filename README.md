@@ -7,4 +7,21 @@ NLP2025用の実験に使用したサンプルを公開しています（[sample
 
 [言語処理学会の予稿](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/Q1-3.pdf)
 
+
+## License
+
 This JETHICS is made available under the Open Data Commons Attribution License: http://opendatacommons.org/licenses/by/1.0/
+
+## Citation
+
+```
+@misc{takeshita2025jethicsjapaneseethicsunderstanding,
+      title={JETHICS: Japanese Ethics Understanding Evaluation Dataset}, 
+      author={Masashi Takeshita and Rafal Rzepka},
+      year={2025},
+      eprint={2506.16187},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2506.16187}, 
+}
+```
